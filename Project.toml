@@ -1,0 +1,6 @@
+[deps]
+ModelingToolkit = "961ee093-0174-5b10-8c0b-aca248fa5eb9"
+NeuralPDE = "4395f398-a874-53c0-a335-5b432ca44aeb"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+Optimization = "1a297f60-4296-5fbd-9cbc-007b232548da"
+OptimizationOptimisers = "fbb218c0-87a3-5db5-9db5-77549f1d3e2a"
